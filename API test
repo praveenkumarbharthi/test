@@ -1,0 +1,9 @@
+// const walletIds = pm.variables.get('walletIds');
+// pm.variables.set('currentWalletId',walletIds.shift());
+
+// if(Array.isArray(walletIds) && walletIds.lenght>0){
+// postman.setNextRequest('Get Wallet ID- details of wallet');
+// }
+// else{
+//     postman.setNextRequest(null);
+// }
