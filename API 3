@@ -1,0 +1,10 @@
+{
+  "walletId": "95f4e0c5-e2e9-4d7c-a969-58a73f46d5dc",
+  "action": "TOP_UP",
+  "method": "OFFLINE",
+  "state": "INITIAL",
+  "paymentInterfaceInteraction": {},
+  "metadata": {},
+  "amount": 5,
+  "currency": "EUR"
+}
